@@ -1,4 +1,4 @@
-#Volume Control with Hand Detection# 🎛️
+#Volume Control with Hand Detection 🎛️
 This project enables real-time control of system volume using hand gestures, leveraging computer vision and machine learning. It utilizes OpenCV, MediaPipe, and Pycaw to capture hand landmarks, detect finger distance, and adjust volume accordingly.
 
 Features
